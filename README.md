@@ -1,21 +1,11 @@
 <div align=center>
   
-  
- <h3> Hi</h3> 
-   <p> 
-  I'm kinghong97<br/>
+  <p>
+ <h3> Hi I'm kinghong97, Chaeyoung Hong, Kai Hong</h3> 
      
-  I'm Chaeyoung Hong<br/>
+  I like developing functions. and I have a small site made of those functions.<br/>
      
-  I'm Kai Hong<br/>
-     
-  I like developing functions.<br/>
-     
-  I have a small site made of those functions.<br/>
-     
-  I'm going to be a full stack developer.<br/>
-     
-  Look forward to my growth.<br/>
+  I'm going to be a full stack developer. Look forward to my growth.<br/>
  
   Thank you.<br/>
 </p>
