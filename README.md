@@ -1,6 +1,6 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=welcome&fontSize=90&fontAlignY=35)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome&fontSize=90&fontAlignY=43)
   
   <p>
  <h3> Hi I'm kinghong97, Chaeyoung Hong, Kai Hong</h3> 
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer)
 
 </div>
 
