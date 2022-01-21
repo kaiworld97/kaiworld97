@@ -1,5 +1,5 @@
 <div align=center>
-  
+  <br/>
   <p>
  <h3> Hi I'm kinghong97, Chaeyoung Hong, Kai Hong</h3> 
      
@@ -31,7 +31,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghong97&langs_count=10&hide=jupyter%20notebook&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=235)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghong97&hide=commits&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true&hide_title=true&hide_rank=true)
 
 
-  <br/>
   
   ## Platforms & Languages
   
