@@ -1,13 +1,29 @@
 <div align=center>
   
-  <p>
-  Hi <br/>
-  <br/>
+  
+ <h3> Hi</h3> 
+   <p> 
+  I'm kinghong97<br/>
+     
+  I'm Chaeyoung Hong<br/>
+     
+  I'm Kai Hong<br/>
+     
+  I like developing functions.<br/>
+     
+  I have a small site made of those functions.<br/>
+     
+  I'm going to be a full stack developer.<br/>
+     
+  Look forward to my growth.<br/>
+ 
+  Thank you.<br/>
 </p>
   
   
-   ## My Site & Contact Info
+   ## Site & Contact Info
   
+  <br/>
   <p>
         <a href="https://www.kungtool.com/" target="_blank"><img src="https://img.shields.io/badge/-%23_kungtool-orange?style=flat-square&logoColor=white"/></a>
     <a href="https://velog.io/@kinghong97" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?&style=flat-square&logo=blogger&logoColor=white"/></a>
@@ -19,11 +35,17 @@
 
  ## GitHub Stats
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghong97&hide=prs,issues&include_all_commits=true&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghong97&langs_count=10&hide=jupyter%20notebook&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=225)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinghong97&theme=flag-india&hide_border=true&date_format=%5BY.%5Dn.j&stroke=DDDDDD00&currStreakLabel=FF8F1D&currStreakNum=519E30&fire=FF8F1D&ring=FF8F1D)](https://git.io/streak-stats)
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghong97&langs_count=10&hide=jupyter%20notebook&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=235)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghong97&hide=commits&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true&hide_title=true&hide_rank=true)
+
 
   <br/>
   
   ## Platforms & Languages
+  
+  <br/>
 <p>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
