@@ -1,15 +1,23 @@
 <div align=center>
+  
   <p>
-  
-  
-  <a href="https://www.linkedin.com/in/chaeyoung-hong-41b0b622b/" target="_blank"><img src="https://img.shields.io/badge/linked_in-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://velog.io/@kinghong97" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?&style=flat-square&logo=blogger&logoColor=white"/></a>
-    <a href="mailto:gladay014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gladay014-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-<p>
   Hi <br/>
   <br/>
 </p>
+  
+  
+   ## My Site & Contact Info
+  
+  <p>
+        <a href="mailto:gladay014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-%23_kungtool-orange?style=flat-square&logoColor=white"/></a>
+    <a href="https://velog.io/@kinghong97" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?&style=flat-square&logo=blogger&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/chaeyoung-hong-41b0b622b/" target="_blank"><img src="https://img.shields.io/badge/linked_in-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:gladay014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</p>
+<br/>
+
+ ## GitHub Stats
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghong97&hide=prs,issues&include_all_commits=true&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghong97&langs_count=10&hide=jupyter%20notebook&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=225)](https://github.com/anuraghazra/github-readme-stats)
 
