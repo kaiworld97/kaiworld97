@@ -9,7 +9,7 @@
    ## My Site & Contact Info
   
   <p>
-        <a href="mailto:gladay014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-%23_kungtool-orange?style=flat-square&logoColor=white"/></a>
+        <a href="https://www.kungtool.com/" target="_blank"><img src="https://img.shields.io/badge/-%23_kungtool-orange?style=flat-square&logoColor=white"/></a>
     <a href="https://velog.io/@kinghong97" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?&style=flat-square&logo=blogger&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/chaeyoung-hong-41b0b622b/" target="_blank"><img src="https://img.shields.io/badge/linked_in-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:gladay014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
