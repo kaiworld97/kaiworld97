@@ -5,9 +5,9 @@
   <p>
  <h3> Hi I'm kinghong97, Chaeyoung Hong, Kai Hong</h3> 
      
-  I like developing functions. and I have a small site made of those functions.<br/>
+  I like to make fun and convenient functions. and I own a small site with functions that I made.<br/>
      
-  I'm going to be a full stack developer. Look forward to my growth.<br/>
+  My ultimate goal is to develop a full stack. Look forward to my growth.<br/>
  
   Thank you.<br/>
 </p>
