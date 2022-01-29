@@ -30,7 +30,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinghong97&theme=flag-india&hide_border=true&date_format=%5BY.%5Dn.j&stroke=DDDDDD00&currStreakLabel=FF8F1D&currStreakNum=519E30&fire=FF8F1D&ring=FF8F1D)](https://git.io/streak-stats)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghong97&langs_count=10&hide=jupyter%20notebook&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=235)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghong97&hide=commits&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true&hide_title=true&hide_rank=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghong97&langs_count=10&hide=jupyter%20notebook,shell,batchfile&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=235)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghong97&hide=commits&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true&hide_title=true&hide_rank=true)
 
 
   
