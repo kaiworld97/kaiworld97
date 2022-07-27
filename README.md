@@ -24,15 +24,6 @@
 
 </p>
 <br/>
-
- ## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinghong97&theme=flag-india&hide_border=true&date_format=%5BY.%5Dn.j&stroke=DDDDDD00&currStreakLabel=FF8F1D&currStreakNum=519E30&fire=FF8F1D&ring=FF8F1D)](https://git.io/streak-stats)
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghong97&langs_count=10&hide=jupyter%20notebook,shell,batchfile&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=235)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghong97&hide=commits&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true&hide_title=true&hide_rank=true)
-
-
   
   ## Platforms & Languages
   
@@ -42,13 +33,27 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 </p>
+
   <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </p>
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  </p>
+  
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  </p>
 <p>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
