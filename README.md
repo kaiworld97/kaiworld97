@@ -3,6 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome&fontSize=90&fontAlignY=43)
   
   <p>
+  <h1>구직중입니다~I'm looking for a job.</h1>
  <h3> Hi I'm kinghong97, Chaeyoung Hong, Kai Hong</h3> 
      
   I like to make fun and convenient functions. and I own a small site with functions that I made.<br/>
